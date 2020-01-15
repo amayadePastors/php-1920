@@ -2,6 +2,7 @@
 <HEAD> <TITLE> Bingo </TITLE> </HEAD>
 
 <BODY>
+	<h1>Esto es un test de DOCKER </h1>
 <?php
 
 //generamos un array tridimensional vacío, con los nombres de jugadores y cartones como clave
