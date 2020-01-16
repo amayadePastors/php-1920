@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$nombredep= limpiarCampo($_POST['nombredep']);
 }
 
-$servername = "localhost";
+$servername = "10.130.7.110";
 $username = "root";
 $password = "rootroot";
 $dbname="empleados07";
