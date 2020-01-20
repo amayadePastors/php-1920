@@ -11,7 +11,7 @@ require "funciones.php";
 set_error_handler("errores");
 
 /* Conexión BD */
-$servername = "10.130.7.110";
+$servername = "10.128.16.52";
 $username = "root";
 $password = "rootroot";
 $dbname="empleados07";
